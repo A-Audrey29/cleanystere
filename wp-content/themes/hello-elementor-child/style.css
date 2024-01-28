@@ -1,0 +1,28 @@
+/**
+ * Theme Name:     Hello Elementor Child
+ * Author:         Elementor Team
+ * Template:       hello-elementor
+ * Text Domain:	   hello-elementor-child
+ * Description:    Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work seamlessly with the Elementor page builder plugin. The theme is free, open-source, and designed for users who want a flexible, easy-to-use, and customizable website. The theme, which is optimized for performance, provides a solid foundation for users to build their own unique designs using the Elementor drag-and-drop site builder. Its simplicity and flexibility make it a great choice for both beginners and experienced Web Creators.
+ */
+
+ @import "assets/css/lightbox.css";
+ @import "assets/css/popup.css";
+ @import "assets/css/single.css";
+
+
+ @font-face {
+  font-family: 'cheap_potatoes';
+  src: url('../hello-elementor-child/assets/fonts/cheap_potatoes/cheap_potatoes_black_thin-webfont.woff2') format('woff2'),
+      url('../hello-elementor-child/assets/fonts/cheap_potatoes/cheap_potatoes_black_thin-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+ body {
+  background-color: #FBFAF8!important ;
+}
+
+      
+      
